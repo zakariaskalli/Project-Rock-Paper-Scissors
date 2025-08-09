@@ -1,41 +1,26 @@
-🎮 Rock-Paper-Scissors Console Game
-📌 About the Project
-This is a console-based Rock-Paper-Scissors game developed in C++.
-You choose the number of rounds and play against the computer, which makes random choices. After each round, the program announces whether you won, lost, or tied. At the end of the game, you can choose to play again for unlimited fun.
+🎮 Rock-Paper-Scissors Game (C++ Console Application)
+📖 About the Project
+This is a console-based Rock-Paper-Scissors game developed in C++, where you compete against a computer opponent that makes random moves. You can set the number of rounds per match, view round-by-round results, and decide whether to play again at the end of each session.
 
 ✨ Features
-🎯 Customizable Rounds – Choose how many times you want to play.
+🎯 Custom Rounds – Play as many rounds as you want in a single match.
 
-🤖 Computer AI – The computer randomly selects Rock, Paper, or Scissors.
+🤖 Computer AI – Generates moves randomly for unpredictable gameplay.
 
-🏆 Round Results – Displays win, loss, or tie after each turn.
+📊 Instant Feedback – Shows Win/Loss/Tie after each round.
 
-🔁 Replay Option – Option to play again without restarting the program.
+🔄 Replay System – Continue playing without restarting the program.
 
-🖥 Lightweight Console App – Runs in any terminal without additional dependencies.
+🖥 Clean Console UI – Simple prompts and clear output formatting.
 
 🛠️ Technologies Used
-Language: C++
+C++ – Core programming language.
 
-Concepts:
+Procedural Programming – Structured code design.
 
-Random number generation (rand() function)
+Random Number Generation – Using rand() for computer moves.
 
-Conditional statements (if-else, switch)
+Control Structures – if, switch, loops for flow control.
 
-Loops (for, while)
+Input Handling & Validation – Ensures smooth gameplay.
 
-User input validation
-
-Basic game logic implementation
-
-📌 Why This Project Matters
-This small project is a fun way to practice:
-
-Structuring a simple C++ program
-
-Using loops and conditionals
-
-Implementing basic game logic
-
-Working with randomness in programming
